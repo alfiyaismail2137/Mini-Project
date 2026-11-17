@@ -1,2 +1,2 @@
 # Mini-Project
-Customer Churn and Analysis
+## Telecom Customer Churn and Analysis
